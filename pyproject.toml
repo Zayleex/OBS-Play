@@ -1,0 +1,11 @@
+[project]
+name = "obs-play"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "psutil>=7.1.2",
+    "pyautogui>=0.9.54",
+    "pywin32>=311",
+]
